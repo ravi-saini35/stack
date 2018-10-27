@@ -23,6 +23,7 @@ NODE *Union(NODE *head1,NODE *head2,NODE *head)
           temp2=temp2->next;
      }
      head=temp;
+//enduahduandkl aehidbi
      while(temp1!=NULL&&temp2!=NULL)
      {
           if(temp1->data<temp2->data)
