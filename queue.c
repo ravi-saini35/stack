@@ -14,6 +14,7 @@ void enque(int item)
     else
       array[++rear]=item;
 }
+//dfisahdyshdiak kjasbduahd asmdakd
 int deque()
 {
   if(front==-1 || front>rear)
@@ -35,7 +36,8 @@ void display()
    }
 }
 }
-
+//kuchc juddddad
+//dksnus
 int main()
 {
   int choice,item,n;
